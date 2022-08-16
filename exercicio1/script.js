@@ -1,3 +1,5 @@
+// EXERCÍCIO 1:
+
 let coxinha = prompt("Deseja comer mais uma coxinha? \nDigite S para sim e N para não.").toUpperCase()
 let conta = 0
 
